@@ -1,6 +1,8 @@
 <?php
-// Copyright 2011 Toby Zerner, Simon Zerner
-// This file is part of esoTalk. Please see the included license file for usage information.
+setlocale(LC_ALL, 'zh_CN', 'chn');
+// Copyright 2013 Klion Xu
+// You can edit this file and publish under GPLv2 License.
+// This file is part of esoTalk. 
 
 ET::$languageInfo["Chinese(Simplified)"] = array(
 	"locale" => "zh-CN",
